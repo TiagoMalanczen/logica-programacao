@@ -3,9 +3,8 @@
  *
  * <p>Problemas planejados para este pacote:
  * <ul>
- *   <li>FizzBuzz</li>
+ *   <li>FizzBuzz</li> X
  *   <li>Solve Me First (HackerRank)</li>
- *   <li>Simple Array Sum (HackerRank)</li>
  *   <li>A Very Big Sum (HackerRank)</li>
  *   <li>Compare the Triplets (HackerRank)</li>
  *   <li>Time Conversion (HackerRank)</li>
