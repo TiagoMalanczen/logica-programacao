@@ -4,9 +4,9 @@
  * <p>Problemas planejados para este pacote:
  * <ul>
  *   <li>FizzBuzz</li> X
- *   <li>Solve Me First (HackerRank)</li>
- *   <li>A Very Big Sum (HackerRank)</li>
- *   <li>Compare the Triplets (HackerRank)</li>
+ *   <li>Solve Me First (HackerRank)</li>X
+ *   <li>A Very Big Sum (HackerRank)</li>X
+ *   <li>Compare the Triplets (HackerRank)</li>X
  *   <li>Time Conversion (HackerRank)</li>
  *   <li>Plus Minus (HackerRank)</li>
  *   <li>Birthday Cake Candles (HackerRank)</li>

@@ -29,6 +29,5 @@ public class CompareTheTriplets {
         int[] result = compareTriplets(a, b);
 
         System.out.println("Resultado: " + Arrays.toString(result));
-
     }
 }
