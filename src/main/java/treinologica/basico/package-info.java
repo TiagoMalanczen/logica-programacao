@@ -7,7 +7,7 @@
  *   <li>Solve Me First (HackerRank)</li>X
  *   <li>A Very Big Sum (HackerRank)</li>X
  *   <li>Compare the Triplets (HackerRank)</li>X
- *   <li>Time Conversion (HackerRank)</li>
+ *   <li>Time Conversion (HackerRank)</li>X
  *   <li>Plus Minus (HackerRank)</li>
  *   <li>Birthday Cake Candles (HackerRank)</li>
  * </ul>
