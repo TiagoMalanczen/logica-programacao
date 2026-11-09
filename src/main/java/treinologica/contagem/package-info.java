@@ -6,8 +6,8 @@
  *   <li>Frequência de letras</li>X
  *   <li>Sock Merchant (HackerRank)</li>X
  *   <li>Counting Valleys (HackerRank)</li>X
- *   <li>Primeiro caractere não repetido</li>
- *   <li>Anagrama</li>
+ *   <li>Primeiro caractere não repetido</li>X
+ *   <li>Anagrama</li>X
  *   <li>Elemento mais frequente</li>
  * </ul>
  */
